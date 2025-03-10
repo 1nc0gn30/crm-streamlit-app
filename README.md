@@ -71,4 +71,4 @@ This project is open-source under the MIT License.
 ```txt
 streamlit
 pandas
-plotly# crm-streamlit-app
+plotly
