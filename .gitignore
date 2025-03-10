@@ -1,0 +1,35 @@
+# Ignore Python bytecode files
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.pyo
+
+# Virtual Environment (venv)
+venv/
+env/
+.venv/
+*.venv/
+
+# Streamlit Cache & Logs
+.streamlit/
+logs/
+cache/
+
+# Ignore IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# JSON Database File (Local storage)
+crm_data.json
+
+# Ignore Backup & Exported Data
+*.csv
+*.json
+backup_*.json
