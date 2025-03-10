@@ -21,16 +21,18 @@ This is a **local-first, lightweight CRM system** built with **Streamlit**. It a
    ```bash
    git clone https://github.com/1nc0gn30/crm-streamlit-app.git
    cd streamlit-crm
-
+   ```
     Create a virtual environment (optional)
-
-python -m venv venv
-source venv/bin/activate  # On macOS/Linux
-venv\Scripts\activate  # On Windows
-
+    ```bash
+    python -m venv venv
+    source venv/bin/activate  # On macOS/Linux
+    venv\Scripts\activate # On Windows
+    ```
 Install dependencies
 
+```bash
 pip install -r requirements.txt
+```
 
 Run the CRM app
 
